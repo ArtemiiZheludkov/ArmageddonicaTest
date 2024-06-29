@@ -1,5 +1,4 @@
-Armageddonica test task
-used:
+Armageddonica test task:
  - Zenject
  - UniTask
  - AgentsNavigation (unity asset)
